@@ -1,18 +1,18 @@
 # Hi, ich bin Tobias 👋
 
-## Fachinformatiker für Anwendungsentwicklung | Full-Stack Developer | Cloud & KI Enthusiast
+## QA-Engineer | Fachinformatiker für Anwendungsentwicklung | Full-Stack Developer | Cloud & KI Enthusiast
 
-Ich bin ein leidenschaftlicher Entwickler aus Hamburg mit Fokus auf **Full-Stack-Entwicklung**, **Cloud-Technologien** und **KI-Integration**. Aktuell schließe ich meine Umschulung zum Fachinformatiker für Anwendungsentwicklung (IHK) ab und plane, das Abitur am Abendgymnasium nachzuholen, um meine Interessen in Geschichte und Politik auf akademischem Niveau zu vertiefen.
+Ich bin ein leidenschaftlicher QA-Engineer und Entwickler aus Hamburg mit Fokus auf **Dev-Ops**, **Full-Stack-Entwicklung**, **Cloud-Technologien** und **KI-Integration**. Aktuell schließe ich meine Umschulung zum Fachinformatiker für Anwendungsentwicklung (IHK) ab und plane, das Abitur am Abendgymnasium nachzuholen, um meine Interessen in Geschichte und Politik auf akademischem Niveau zu vertiefen.
 
 ---
 
 ### 🚀 Über mich
 
-- 🎓 **Umschulung**: Fachinformatiker für Anwendungsentwicklung (IHK) bei GFN Hamburg
-- 💼 **Praktikum**: IT-Administration & -Consulting bei Argo Aviation GmbH (6 Monate)
-- 🌱 **Aktuell lerne ich**: Azure Cloud, Docker, React, TypeScript
+- 🎓 **Ausbildung**: Fachinformatiker für Anwendungsentwicklung (IHK) bei GFN Hamburg 
+- 💼 **Momentane Position**: QA-Engineer bei Hosenso GmbH
+- 🌱 **Aktuell lerne ich**: Azure Cloud, Docker, React, TypeScript, Playwright, C#
 - 🎯 **Ziel**: Abitur nachholen und Karriere im IT-Bereich weiter ausbauen
-- 📫 **Kontakt**: THBuss@outlook.de
+- 📫 **Kontakt**: Tobi196183@gmail.com
 - 📍 **Standort**: Hamburg, Deutschland
 
 ---
@@ -101,10 +101,10 @@ KI-gestützte Dropshipping-Automatisierung mit Multi-Platform-Integration (Shopi
 
 ### 🎯 Aktuelle Ziele
 
-- ✅ IHK-Abschlussprüfung erfolgreich bestehen
-- 🎓 Abitur am Abendgymnasium nachholen (Start: Februar 2026)
-- 💼 Berufseinstieg als Fachinformatiker für Anwendungsentwicklung
-- 🚀 Weiterentwicklung meiner Cloud- und KI-Kenntnisse
+- ✅ Zertifizierung in C#, Docker, Kubernetes und Azure.
+- 🎓 Abitur am Abendgymnasium nachholen (Start: August 2026)
+- 💼 Entwickler oder Dev Ops Position
+- 🚀 Weiterentwicklung meiner Cloud- und KI-Kenntnisse, sowie meiner DevOps Fähigkeiten
 - 📚 Vertiefung in Geschichte und Politik auf akademischem Niveau
 
 ---
@@ -128,4 +128,4 @@ KI-gestützte Dropshipping-Automatisierung mit Multi-Platform-Integration (Shopi
 
 ⭐️ **Wenn dir meine Projekte gefallen, lass gerne einen Stern da!**
 
-*Letztes Update: Dezember 2025*
+*Letztes Update: Februar 2026*
