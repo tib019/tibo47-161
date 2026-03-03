@@ -89,6 +89,13 @@ KI-gestützte Dropshipping-Automatisierung mit Multi-Platform-Integration (Shopi
 
 ---
 
+#### 🤖 [OpenClaw Job Application Agent](https://github.com/tibo47-161/openclaw-job-application-agent)
+Vollautonomer Job-Bewerbungsagent mit KI-basierter Anschreiben-Generierung, Telegram-Steuerung und Docker-Deployment.
+
+**Tech:** Node.js, Python, OpenAI GPT-4.1, Telegram Bot API, Docker | **Tests:** 90+ Unit Tests
+
+---
+
 ### 📊 GitHub Statistiken
 
 ![Tobias' GitHub stats](https://github-readme-stats.vercel.app/api?username=tibo47-161&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
@@ -128,4 +135,4 @@ KI-gestützte Dropshipping-Automatisierung mit Multi-Platform-Integration (Shopi
 
 ⭐️ **Wenn dir meine Projekte gefallen, lass gerne einen Stern da!**
 
-*Letztes Update: Februar 2026*
+*Letztes Update: März 2026*
