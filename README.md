@@ -11,6 +11,7 @@ Ich bin ein leidenschaftlicher QA-Engineer und Entwickler aus Hamburg mit Fokus 
 - 🎓 **Ausbildung**: Fachinformatiker für Anwendungsentwicklung (IHK) bei GFN Hamburg 
 - 💼 **Momentane Position**: QA-Engineer bei Hosenso GmbH
 - 🌱 **Aktuell lerne ich**: Azure Cloud, Docker, React, TypeScript, Playwright, C#
+- 📊 **GitHub Aktivität**: 244+ Commits im letzten Jahr | 16 öffentliche Repos
 - 🎯 **Ziel**: Abitur nachholen und Karriere im IT-Bereich weiter ausbauen
 - 📫 **Kontakt**: Tobi196183@gmail.com
 - 📍 **Standort**: Hamburg, Deutschland
@@ -68,10 +69,17 @@ Chrome-Extension zur Automatisierung von Support-Anfragen im Zoho Creator System
 
 ---
 
-#### 📈 [Automated Trading System](https://github.com/tibo47-161/automated-trading-system)
-Vollständiges automatisiertes Trading-System für Kryptowährungen und Aktien mit KI-basierter Sentiment-Analyse, Risikomanagement und Real-time-Dashboard.
+#### 📋 [QA Documentation Generator](https://github.com/tibo47-161/qa-documentation-generator)
+PowerShell-Tool zur automatisierten Erstellung professioneller QA-Dokumentation. Eingesetzt bei Hosenso GmbH — **80% Zeitersparnis** (15 min → 2 min pro Dokument).
 
-**Tech:** Python, Flask, React, Docker, nginx | **LOC:** ~11.700 | **Security Score:** 95.5/100
+**Tech:** PowerShell, Azure DevOps, JSON, Markdown | **Zeitersparnis:** 80% | **Dokumenttypen:** 6
+
+---
+
+#### 📈 [Automated Trading System](https://github.com/tibo47-161/automated-trading-system)
+Vollständiges automatisiertes Trading-System für Kryptowährungen und Aktien mit **KI-Sentiment-Analyse** (Twitter, Reddit, Yahoo Finance), automatisierten Trading-Signalen und Real-time-Dashboard.
+
+**Tech:** Python, Flask, React, Docker, nginx | **LOC:** ~11.700 | **Security Score:** 🔒 95.5/100 | **Win Rate:** 58.3% | **Uptime:** 99.2%
 
 ---
 
@@ -83,9 +91,9 @@ Professionelles Mitarbeiter-Empfehlungsportal mit Azure-Cloud-Deployment und CI/
 ---
 
 #### 🤖 [DropchipAI](https://github.com/tibo47-161/DropchipAI)
-KI-gestützte Dropshipping-Automatisierung mit Multi-Platform-Integration (Shopify, eBay).
+KI-gestützte Dropshipping-Automatisierung mit Multi-Platform-Integration (Shopify, eBay). Deployed auf Vercel mit CI/CD-Pipeline.
 
-**Tech:** Python, React, Google Trends API, KI/ML | **LOC:** ~8.100
+**Tech:** Python, React, FastAPI, Google Trends API, KI/ML | **LOC:** ~9.600 | **Commits:** 32+ | **Live:** [Vercel](https://dropchip-ai.vercel.app)
 
 ---
 
