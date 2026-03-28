@@ -1,4 +1,4 @@
-# Hi, ich bin Tobias 👋
+# Hi, ich bin Tobias
 
 ## QA-Engineer | Fachinformatiker für Anwendungsentwicklung | Full-Stack Developer | Cloud & KI Enthusiast
 
@@ -6,19 +6,19 @@ Ich bin ein leidenschaftlicher QA-Engineer und Entwickler aus Hamburg mit Fokus 
 
 ---
 
-### 🚀 Über mich
+### Über mich
 
-- 🎓 **Ausbildung**: Fachinformatiker für Anwendungsentwicklung (IHK) bei GFN Hamburg 
-- 💼 **Momentane Position**: QA-Engineer bei Hosenso GmbH
-- 🌱 **Aktuell lerne ich**: Azure Cloud, Docker, React, TypeScript, Playwright, C#
-- 📊 **GitHub Aktivität**: 244+ Commits im letzten Jahr | 16 öffentliche Repos
-- 🎯 **Ziel**: Abitur nachholen und Karriere im IT-Bereich weiter ausbauen
-- 📫 **Kontakt**: tobias.buss.dev@gmail.com
-- 📍 **Standort**: Hamburg, Deutschland
+- **Ausbildung**: Fachinformatiker für Anwendungsentwicklung (IHK) bei GFN Hamburg
+- **Momentane Position**: QA-Engineer bei Hosenso GmbH
+- **Aktuell lerne ich**: Azure Cloud, Docker, React, TypeScript, Playwright, C#
+- **GitHub Aktivität**: 244+ Commits im letzten Jahr | 16 öffentliche Repos
+- **Ziel**: Abitur nachholen und Karriere im IT-Bereich weiter ausbauen
+- **Kontakt**: tobias.buss.dev@gmail.com
+- **Standort**: Hamburg, Deutschland
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 **Sprachen:**
 
@@ -60,51 +60,51 @@ Ich bin ein leidenschaftlicher QA-Engineer und Entwickler aus Hamburg mit Fokus 
 
 ---
 
-### 🏆 Highlight-Projekte
+### Highlight-Projekte
 
-#### 🎫 [ArgoTicketTool](https://github.com/tibo47-161/ArgoTicketTool) (IHK-Abschlussprojekt)
+#### [ArgoTicketTool](https://github.com/tibo47-161/ArgoTicketTool) (IHK-Abschlussprojekt)
 Chrome-Extension zur Automatisierung von Support-Anfragen im Zoho Creator System. Entwickelt während meines Praktikums bei Argo Aviation.
 
 **Tech:** JavaScript, Chrome Extension API, Zoho Creator API, OAuth2, Cloudflare Workers
 
 ---
 
-#### 📋 [QA Documentation Generator](https://github.com/tibo47-161/qa-documentation-generator)
+#### [QA Documentation Generator](https://github.com/tibo47-161/qa-documentation-generator)
 PowerShell-Tool zur automatisierten Erstellung professioneller QA-Dokumentation. Eingesetzt bei Hosenso GmbH — **80% Zeitersparnis** (15 min → 2 min pro Dokument).
 
 **Tech:** PowerShell, Azure DevOps, JSON, Markdown | **Zeitersparnis:** 80% | **Dokumenttypen:** 6
 
 ---
 
-#### 📈 [Automated Trading System](https://github.com/tibo47-161/automated-trading-system)
+#### [Automated Trading System](https://github.com/tibo47-161/automated-trading-system)
 Vollständiges automatisiertes Trading-System für Kryptowährungen und Aktien mit **KI-Sentiment-Analyse** (Twitter, Reddit, Yahoo Finance), automatisierten Trading-Signalen und Real-time-Dashboard.
 
-**Tech:** Python, Flask, React, Docker, nginx | **LOC:** ~11.700 | **Security Score:** 🔒 95.5/100 | **Win Rate:** 58.3% | **Uptime:** 99.2%
+**Tech:** Python, Flask, React, Docker, nginx | **LOC:** ~11.700 | **Security Score:** 95.5/100 | **Win Rate:** 58.3% | **Uptime:** 99.2%
 
 ---
 
-#### 🚀 [Argo Aviation Referral Portal](https://github.com/tibo47-161/argo-aviation-referral-portal)
+#### [Argo Aviation Referral Portal](https://github.com/tibo47-161/argo-aviation-referral-portal)
 Professionelles Mitarbeiter-Empfehlungsportal mit Azure-Cloud-Deployment und CI/CD-Pipeline.
 
 **Tech:** Python, Flask, Azure SQL, Azure DevOps | **LOC:** ~8.600
 
 ---
 
-#### 🤖 [DropchipAI](https://github.com/tibo47-161/DropchipAI)
+#### [DropchipAI](https://github.com/tibo47-161/DropchipAI)
 KI-gestützte Dropshipping-Automatisierung mit Multi-Platform-Integration (Shopify, eBay). Deployed auf Vercel mit CI/CD-Pipeline.
 
 **Tech:** Python, React, FastAPI, Google Trends API, KI/ML | **LOC:** ~9.600 | **Commits:** 32+ | **Live:** [Vercel](https://dropchip-ai.vercel.app)
 
 ---
 
-#### 🤖 [OpenClaw Job Application Agent](https://github.com/tibo47-161/openclaw-job-application-agent)
+#### [OpenClaw Job Application Agent](https://github.com/tibo47-161/openclaw-job-application-agent)
 Vollautonomer Job-Bewerbungsagent mit KI-basierter Anschreiben-Generierung, Telegram-Steuerung und Docker-Deployment.
 
 **Tech:** Node.js, Python, OpenAI GPT-4.1, Telegram Bot API, Docker | **Tests:** 90+ Unit Tests
 
 ---
 
-### 📊 GitHub Statistiken
+### GitHub Statistiken
 
 ![Tobias' GitHub stats](https://github-readme-stats.vercel.app/api?username=tibo47-161&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
@@ -114,17 +114,17 @@ Vollautonomer Job-Bewerbungsagent mit KI-basierter Anschreiben-Generierung, Tele
 
 ---
 
-### 🎯 Aktuelle Ziele
+### Aktuelle Ziele
 
-- ✅ Zertifizierung in C#, Docker, Kubernetes und Azure.
-- 🎓 Abitur am Abendgymnasium nachholen (Start: August 2026)
-- 💼 Entwickler oder Dev Ops Position
-- 🚀 Weiterentwicklung meiner Cloud- und KI-Kenntnisse, sowie meiner DevOps Fähigkeiten
-- 📚 Vertiefung in Geschichte und Politik auf akademischem Niveau
+- Zertifizierung in C#, Docker, Kubernetes und Azure.
+- Abitur am Abendgymnasium nachholen (Start: August 2026)
+- Entwickler oder Dev Ops Position
+- Weiterentwicklung meiner Cloud- und KI-Kenntnisse, sowie meiner DevOps Fähigkeiten
+- Vertiefung in Geschichte und Politik auf akademischem Niveau
 
 ---
 
-### 📫 Kontakt
+### Kontakt
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tobias.buss.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tibo47-161)
@@ -132,15 +132,15 @@ Vollautonomer Job-Bewerbungsagent mit KI-basierter Anschreiben-Generierung, Tele
 
 ---
 
-### 💡 Fun Facts
+### Fun Facts
 
-- 🎮 Warhammer 40k Fan (siehe [Wh40kDatenbank](https://github.com/tibo47-161/Wh40kDatenbank))
-- 📚 Leidenschaftlich interessiert an Geschichte und Politik
-- 🎨 Tattoo-Enthusiast (siehe [TattooTime V2](https://github.com/tibo47-161/tattootimeV2))
-- 🌍 Spreche Deutsch, Englisch (C1), Polnisch (A2) und Russisch (A1)
+- Warhammer 40k Fan (siehe [Wh40kDatenbank](https://github.com/tibo47-161/Wh40kDatenbank))
+- Leidenschaftlich interessiert an Geschichte und Politik
+- Tattoo-Enthusiast (siehe [TattooTime V2](https://github.com/tibo47-161/tattootimeV2))
+- Spreche Deutsch, Englisch (C1), Polnisch (A2) und Russisch (A1)
 
 ---
 
-⭐️ **Wenn dir meine Projekte gefallen, lass gerne einen Stern da!**
+️ **Wenn dir meine Projekte gefallen, lass gerne einen Stern da!**
 
 *Letztes Update: März 2026*
